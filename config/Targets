@@ -1,5 +1,5 @@
 # Eranium SmokePing Targets Project
-# Generated on 2025-07-01 11:19:12
+# Generated on 2025-07-01 12:07:52
 # https://github.com/eranium/smokeping-targets
 
 *** Targets ***
@@ -143,6 +143,17 @@ menu = VodafoneZiggo | AS33915 IPv6
 title = VodafoneZiggo | AS33915 IPv6
 probe = FPing6
 host = 2a00:18c8:0:1::1:53
+
++++ EU-NL-35133
+menu = Eranium | AS35133
+title = Eranium | AS35133
+host = smokeping-ams-nl.eranium.net
+
++++ EU-NL-35133-IPV6
+menu = Eranium | AS35133 IPv6
+title = Eranium | AS35133 IPv6
+probe = FPing6
+host = smokeping-ams-nl.eranium.net
 
 
 + NA
