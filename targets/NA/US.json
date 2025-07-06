@@ -3,7 +3,7 @@
     "name": "AT&T Enterprises",
     "asn": 7018,
     "ipv4": "12.0.1.28",
-    "ipv6": false,
+    "ipv6": "2001:1890:111d:1::28",
     "location": false,
     "category": "isp"
   }
