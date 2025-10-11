@@ -1,0 +1,66 @@
+[
+    {
+        "name": "SweHosting",
+        "asn": 208453,
+        "ipv4": "193.181.23.1",
+        "ipv6": "2a07:54c1:f000::1",
+        "location": "Stockholm",
+        "category": "content"
+    },
+    {
+        "name": "Telia Sweden",
+        "asn": 3301,
+        "ipv4": "81.227.169.1",
+        "ipv6": false,
+        "location": "Stockholm",
+        "category": "isp"
+    },
+    {
+        "name": "Bahnhof",
+        "asn": 8473,
+        "ipv4": "46.59.116.178",
+        "ipv6": false,
+        "location": "Stockholm",
+        "category": "isp"
+    },
+    {
+        "name": "Tele2 Sweden",
+        "asn": 1257,
+        "ipv4": "77.218.34.1",
+        "ipv6": false,
+        "location": "Stockholm",
+        "category": "isp"
+    },
+    {
+        "name": "Telenor",
+        "asn": 2119,
+        "ipv4": "62.119.218.158",
+        "ipv6": false,
+        "location": "Stockholm",
+        "category": "isp"
+    },
+    {
+        "name": "Hi3G / 3 Sverige",
+        "asn": 44034,
+        "ipv4": "95.209.201.24",
+        "ipv6": false,
+        "location": "Stockholm",
+        "category": "isp"
+    },
+    {
+        "name": "Bredband 2 Sweden",
+        "asn": 29518,
+        "ipv4": "193.183.175.14",
+        "ipv6": false,
+        "location": "Stockholm",
+        "category": "isp"
+    },
+    {
+        "name": "NORDUnet",
+        "asn": 2603,
+        "ipv4": "109.105.114.9",
+        "ipv6": "2001:948:0:f005::2",
+        "location": "Stockholm",
+        "category": "edu"
+    }
+]
