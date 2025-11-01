@@ -18,10 +18,16 @@ jobs:
       - name: git config user.name
         run: git config user.name "github-actions"
       - name: git config user.email
-        run: git config user.email "github-actions@eranium.io"        
-      - name: git commit config/Targets
-        run: git commit -m 'Auto generate Targets file' config/Targets
-      - name: git commit INSTANCES.md
-        run: git commit -m 'Auto generate INSTANCES.md file' INSTANCES.md
+        run: git config user.email "github-actions@eranium.io"
+      - name: Add updated files
+        run: git add config/Targets INSTANCES.md
+      - name: Commit if changed
+        run: |
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto generated files"
+            git push origin HEAD
+          fi
       - name: git push origin HEAD
         run: git push origin HEAD     
