@@ -1,5 +1,5 @@
 # Eranium SmokePing Targets Project
-# Generated on 2025-07-01 12:35:36
+# Generated on 2025-11-01 13:03:07
 # https://github.com/eranium/smokeping-targets
 
 *** Targets ***
@@ -168,6 +168,23 @@ title = US - United States
 menu = AT&T Enterprises | AS7018
 title = AT&T Enterprises | AS7018
 host = 12.0.1.28
+
++++ NA-US-7018-IPV6
+menu = AT&T Enterprises | AS7018 IPv6
+title = AT&T Enterprises | AS7018 IPv6
+probe = FPing6
+host = 2001:1890:111d:1::28
+
++++ NA-US-7922
+menu = Comcast Cable Communications | AS7922
+title = Comcast Cable Communications | AS7922
+host = 66.208.229.10
+
++++ NA-US-7922-IPV6
+menu = Comcast Cable Communications | AS7922 IPv6
+title = Comcast Cable Communications | AS7922 IPv6
+probe = FPing6
+host = 2001:559::a
 
 
 + OC
