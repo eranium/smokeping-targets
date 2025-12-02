@@ -14,5 +14,93 @@
     "ipv6": "2001:559::a",
     "location": false,
     "category": "isp"
+  },
+  {
+    "name": "Verizon Business",
+    "asn": 701,
+    "ipv4": "137.39.8.11",
+    "ipv6": null,
+    "location": false,
+    "category": "isp"
+  },
+  {
+    "name": "Consolidated Communications",
+    "asn": 13333,
+    "ipv4": "72.22.1.3",
+    "ipv6": null,
+    "location": false,
+    "category": "isp"
+  },
+  {
+    "name": "Ziply Fiber",
+    "asn": 20055,
+    "ipv4": "206.166.253.25",
+    "ipv6": "2605:21c0:fe00:1::25",
+    "location": false,
+    "category": "isp"
+  },
+  {
+    "name": "TDS Telecom",
+    "asn": 4181,
+    "ipv4": "216.165.129.158",
+    "ipv6": null,
+    "location": false,
+    "category": "isp"
+  },
+  {
+    "name": "Frontier",
+    "asn": 5650,
+    "ipv4": "66.133.129.56",
+    "ipv6": "2001:1960:20::56",
+    "location": false,
+    "category": "isp"
+  },
+  {
+    "name": "Cablevision Systems Corp",
+    "asn":  6128 ,
+    "ipv4": "167.206.237.230",
+    "ipv6": null,
+    "location": false,
+    "category": "isp"
+  },
+  {
+    "name": "Sonic",
+    "asn": 46375,
+    "ipv4": "50.0.1.1",
+    "ipv6": "2001:5a8::11",
+    "location": false,
+    "category": "isp"
+  },
+  {
+    "name": "RCN",
+    "asn": 6079,
+    "ipv4": "207.172.156.186",
+    "ipv6": null,
+    "location": false,
+    "category": "isp"
+  },
+  {
+    "name": "Armstrong",
+    "asn": 27364,
+    "ipv4": "24.154.5.205",
+    "ipv6": null,
+    "location": false,
+    "category": "isp"
+  },
+    {
+    "name": "NC SECU",
+    "asn": 394358,
+    "ipv4": "204.174.4.247",
+    "ipv6": null,
+    "location": false,
+    "category": "other"
+  },
+  {
+    "name": "Ryamer",
+    "asn": 400587,
+    "ipv4": "192.197.201.254",
+    "ipv6": "2602:fb95:98::ffff:254",
+    "location": "San Francisco, CA, US",
+    "category": "content"
   }
 ]
