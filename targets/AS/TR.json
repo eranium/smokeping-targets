@@ -1,5 +1,13 @@
 [
   {
+    "name": "Superonline",
+    "asn": 34984,
+    "ipv4": "92.44.51.1",
+    "ipv6": null,
+    "location": false,
+    "category": "isp"
+  },
+  {
     "name": "TTNET",
     "asn": 47331,
     "ipv4": "78.163.45.1",
