@@ -18,7 +18,7 @@
     {
         "name": "Telefonica Germany (o2)",
         "asn": 6805,
-        "ipv4": "185.98.140.1",
+        "ipv4": "185.93.236.1",
         "ipv6": "2a02:3018::8a",
         "location": false,
         "category": "isp"
