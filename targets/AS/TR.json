@@ -18,7 +18,7 @@
   {
     "name": "Turk Telekom",
     "asn": 9121,
-    "ipv4": "212.175.0.3",
+    "ipv4": "212.175.0.10",
     "ipv6": null,
     "location": false,
     "category": "isp"
