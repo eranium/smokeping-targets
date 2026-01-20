@@ -2,7 +2,7 @@
     {
         "name": "DELTA Fiber",
         "asn": 15435,
-        "ipv4": " 62.45.44.30",
+        "ipv4": "62.45.44.30",
         "ipv6": "2001:4c3a:100:a::10",
         "location": "Amsterdam",
         "category": "isp"
@@ -10,8 +10,8 @@
     {
         "name": "KPN",
         "asn": 1136,
-        "ipv4": "31.149.0.1",
-        "ipv6": "2a02:a400:8:1::ff02:174",
+        "ipv4": "195.121.100.172",
+        "ipv6": "2a02:a47f:e003:0:ffff:ffff:ffff:fe46",
         "location": "Amsterdam",
         "category": "isp"
     },
