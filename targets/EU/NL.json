@@ -2,8 +2,8 @@
     {
         "name": "DELTA Fiber",
         "asn": 15435,
-        "ipv4": "62.45.0.1",
-        "ipv6": false,
+        "ipv4": " 62.45.44.30",
+        "ipv6": "2001:4c3a:100:a::10",
         "location": "Amsterdam",
         "category": "isp"
     },
@@ -18,8 +18,8 @@
     {
         "name": "Odido",
         "asn": 50266,
-        "ipv4": "5.132.0.1",
-        "ipv6": "2a02:4240:5:1000::1",
+        "ipv4": "37.143.86.95",
+        "ipv6": "2a02:4240::e",
         "location": "Amsterdam",
         "category": "isp"
     },
