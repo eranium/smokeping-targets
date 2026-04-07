@@ -1,5 +1,5 @@
 # Eranium SmokePing Targets Project
-# Generated on 2025-12-09 12:56:14
+# Generated on 2025-12-23 18:44:03
 # https://github.com/eranium/smokeping-targets
 
 *** Targets ***
@@ -569,6 +569,43 @@ host = 2a03:1b20:1:f101::14
 + NA
 menu = NA - North America
 title = NA - North America
+
+++ CA
+menu = CA - Canada
+title = CA - Canada
+
++++ 1403
+menu = EBOX | AS1403
+title = EBOX | AS1403
+host = 96.127.255.94
+
++++ 1403-IPV6
+menu = EBOX | AS1403 IPv6
+title = EBOX | AS1403 IPv6
+probe = FPing6
+host = 2606:6d00:0:99::b1b9
+
++++ 835
+menu = GoCodeIT | AS835
+title = GoCodeIT | AS835
+host = 170.39.230.155
+
++++ 835-IPV6
+menu = GoCodeIT | AS835 IPv6
+title = GoCodeIT | AS835 IPv6
+probe = FPing6
+host = 2602:fd50:0:f::3
+
++++ 60900
+menu = Ssmidge Technologies | AS60900
+title = Ssmidge Technologies | AS60900
+host = 170.39.49.1
+
++++ 60900-IPV6
+menu = Ssmidge Technologies | AS60900 IPv6
+title = Ssmidge Technologies | AS60900 IPv6
+probe = FPing6
+host = 2602:f50c:210::1
 
 ++ US
 menu = US - United States

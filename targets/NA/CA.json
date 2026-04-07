@@ -1,0 +1,26 @@
+[
+  {
+    "name": "EBOX",
+    "asn": 1403,
+    "ipv4": "96.127.255.94",
+    "ipv6": "2606:6d00:0:99::b1b9",
+    "location": "Montreal, QC, CA",
+    "category": "isp"
+  },
+  {
+    "name": "GoCodeIT",
+    "asn": 835,
+    "ipv4": "170.39.230.155",
+    "ipv6": "2602:fd50:0:f::3",
+    "location": "Toronto, ON, CA",
+    "category": "content"
+  },
+  {
+    "name": "Ssmidge Technologies",
+    "asn": 60900,
+    "ipv4": "170.39.49.1",
+    "ipv6": "2602:f50c:210::1",
+    "location": "Montreal, QC, CA",
+    "category": "isp"
+  }
+]
